@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789008442797",
+    "project_id": "projet-programmation-mob-644ac",
+    "storage_bucket": "projet-programmation-mob-644ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789008442797:android:609b6c6a4f123d23f8ed24",
+        "android_client_info": {
+          "package_name": "com.example.projet_programmation_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789008442797-ibgroheil8hcml8a6ckrsu56rp5i9o9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmHqAB13cNyBPeD6hGfUYhMOlGw7lPto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789008442797-ibgroheil8hcml8a6ckrsu56rp5i9o9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
